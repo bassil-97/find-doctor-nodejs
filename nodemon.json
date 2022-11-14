@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "bassil_alqadi97",
+        "DB_PASSWORD": "bassa11223344551997",
+        "DB_NAME": "doctor-db",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
